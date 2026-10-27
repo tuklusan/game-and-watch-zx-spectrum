@@ -84,6 +84,13 @@ misses, and many forgive them all at 200 or 500 points, sometimes with a spell o
 ACL button, pressed with a pen tip, resets everything, including the clock you have just set. Every
 reset button is a lesson in reading the manual first.
 
+## The tapes at a glance
+
+![Contact sheet: Munchy (MU-01) at the top, then all 18 Game & Watch models running on the ZX Spectrum 48K: Turtle Bridge, Fire Attack, Snoopy Tennis, Oil Panic, Donkey Kong, Mickey & Donald, Green House, Donkey Kong II, Mario Bros., Rain Shower, Life Boat, Squish, Donkey Kong Jr., Mario's Cement Factory, Manhole, Tropical Fish, Spitball Sparky and Crab Grab](images/game-and-watch-zx-spectrum-contact-sheet.png)
+
+Every screen above is a real capture of the tape running in a Z80 model of the Spectrum, a few seconds
+into Game A. A picture is worth a thousand words, and a contact sheet is worth nineteen tapes.
+
 ## The games on these tapes
 
 Eighteen Game & Watch models built on the Sharp SM510, each with its job and its moral:
@@ -92,8 +99,8 @@ Eighteen Game & Watch models built on the Sharp SM510, each with its job and its
   fish whenever they feel like it. Never build a bridge out of anyone with a lunch break.
 - **Fire Attack (ID-29, 1982)**: defend a wooden fort from attackers hurling torches, one bucket against
   the world. Wood is a fine building material until someone brings matches.
-- **Snoopy Tennis (SP-30, 1982)**: Snoopy, racket in paw, returns every ball Lucy sends his way. Arguing
-  with Lucy is like playing tennis against a wall that always wins.
+- **Snoopy Tennis (SP-30, 1982)**: Snoopy, racket in paw, takes on Charlie Brown across the net. Good
+  grief is the only sensible reply to a beagle with a backhand.
 - **Oil Panic (OP-51, 1982)**: catch the oil dripping from a leaking ceiling and pass it down to your
   boss without soaking the customers. Every job is easy until somebody walks underneath it.
 - **Donkey Kong (DK-52, 1982)**: Mario climbs the girders to rescue Pauline, on the model that gave the
