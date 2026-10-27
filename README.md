@@ -8,9 +8,9 @@ https://github.com/user-attachments/assets/6002bfec-042c-406d-9c05-a8ce425c4b6c
 written in Z80 assembly, with ready-to-load TZX tapes for 18 Game & Watch models and Munchy, an original
 Pac-Man-style Game & Watch game with a clock and alarm. Runs on real Spectrums and in emulators.
 
-Each tape here contains a loader and block 1. Block 1 holds the emulator (a Sharp SM510 emulator in
-Z80, plus a Spectrum host) and the screen graphics drawn for the Spectrum. The game program itself, the
-4 KB ROM of the original handheld, is not included. You supply it as a second tape, made from your own
+Each tape here contains a loader and block 1. Block 1 holds the emulator (a Sharp SM510 emulator running
+on the 48K ZX Spectrum) and the screen graphics drawn for the Spectrum. The game program itself, the 4
+KB ROM of the original handheld, is not included. You supply it as a second tape, made from your own
 MAME set.
 
 ## Making the ROM tape
@@ -88,8 +88,8 @@ reset button is a lesson in reading the manual first.
 
 ![Contact sheet: Munchy (MU-01) at the top, then all 18 Game & Watch models running on the ZX Spectrum 48K: Turtle Bridge, Fire Attack, Snoopy Tennis, Oil Panic, Donkey Kong, Mickey & Donald, Green House, Donkey Kong II, Mario Bros., Rain Shower, Life Boat, Squish, Donkey Kong Jr., Mario's Cement Factory, Manhole, Tropical Fish, Spitball Sparky and Crab Grab](images/game-and-watch-zx-spectrum-contact-sheet.png)
 
-Every screen above is a real capture of the tape running in a Z80 model of the Spectrum, a few seconds
-into Game A. A picture is worth a thousand words, and a contact sheet is worth nineteen tapes.
+Every screen above is a real capture of the tape running on a 48K ZX Spectrum, a few seconds into Game
+A. A picture is worth a thousand words, and a contact sheet is worth nineteen tapes.
 
 ## The games on these tapes
 
