@@ -1,4 +1,12 @@
-# Game & Watch on the ZX Spectrum 48K: public tapes
+# Game & Watch on the ZX Spectrum 48K
+
+https://github.com/user-attachments/assets/6002bfec-042c-406d-9c05-a8ce425c4b6c
+
+*Mario Bros. (MW-56) running on a ZX Spectrum 48K.*
+
+**Nintendo Game & Watch LCD handhelds on the ZX Spectrum 48K**: a cycle-accurate Sharp SM510 emulator
+written in Z80 assembly, with ready-to-load TZX tapes for 18 Game & Watch models and Munchy, an original
+Pac-Man-style Game & Watch game with a clock and alarm. Runs on real Spectrums and in emulators.
 
 Each tape here contains a loader and block 1. Block 1 holds the emulator (a Sharp SM510 emulator in
 Z80, plus a Spectrum host) and the screen graphics drawn for the Spectrum. The game program itself, the
