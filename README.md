@@ -61,80 +61,82 @@ ENTER for ACL.
 
 ## A short history of Game & Watch
 
-In 1980 Nintendo engineer **Gunpei Yokoi** is said to have watched a bored businessman on the
-Shinkansen killing time by poking at a pocket calculator. Yokoi's thought: what if that calculator
-were a game? The result was **Game & Watch**, a credit-card-sized LCD handheld that played one game
-and, because a gadget in 1980 had to earn its keep, was also a clock with an alarm. Hence the name.
+In 1980, the story goes, Nintendo engineer **Gunpei Yokoi** watched a bored businessman on the
+Shinkansen pass the time by prodding at a pocket calculator. Yokoi wondered what would happen if the
+calculator were a game. The answer was **Game & Watch**, a credit-card-sized LCD handheld that played
+one game. Because a gadget in 1980 had to earn its keep, it also told the time and woke you up.
+Necessity may be the mother of invention, but boredom is its favourite uncle.
 
-The screens came from the same liquid-crystal technology Sharp was putting into calculators, and the
-brains were Sharp's tiny 4-bit microcontrollers. The SM510 used by most of the later models has
-4 KB of program ROM, 128 four-bit cells of RAM, and a leisurely 16,384 clock cycles a second.
-Every figure on the screen is a fixed LCD segment printed in place: Mario does not move, he simply
-appears in the next pose. That is why Game & Watch characters "teleport" with that unmistakable
-click-click rhythm.
+The screens used the liquid crystal Sharp was already putting into calculators, and the brains were
+Sharp's 4-bit microcontrollers. The SM510, inside most of the later models, has 4 KB of program ROM,
+128 four-bit cells of RAM and a clock of 16,384 cycles a second. Every figure is a segment printed in
+place, so Mario never walks: he simply appears in his next pose. Animation is optional when
+imagination is included.
 
-The line ran from 1980 to 1991, sold over 40 million units, and grew through several series:
-Silver and Gold, **Wide Screen**, the clamshell **Multi Screen** (two screens hinged together, a
-shape Nintendo returned to with the DS twenty years later), **New Wide Screen**, Tabletop, Panorama
-and **Super Color**. The 1982 Multi Screen *Donkey Kong* introduced the cross-shaped directional pad,
-the "+" button that ended up on almost every game controller since. In 2020 Nintendo even released a
-new Game & Watch for the 35th anniversary of *Super Mario Bros.*
+The line ran from 1980 to 1991 and sold more than 40 million units, in series from Silver and Gold
+through **Wide Screen** and **New Wide Screen** to **Super Color**. The clamshell **Multi Screen**, two
+screens on a hinge, is the shape Nintendo came back to with the DS twenty years later. Its 1982 *Donkey
+Kong* introduced the cross-shaped "+" pad that has sat on nearly every controller since. Good ideas
+never age; they just wait for better batteries.
 
-Almost every model has **Game A** and **Game B** (B is the "you thought A was hard?" mode), a miss
-counter, and in many games a reward at 200 or 500 points that wipes your misses away, sometimes with
-a "chance time" of double points. The ACL button, pressed with a pen tip, resets the whole thing,
-including the clock you just set.
+Nearly every model has **Game A** and **Game B**, where B is A with the gloves off. Most count your
+misses, and many forgive them all at 200 or 500 points, sometimes with a spell of double points. The
+ACL button, pressed with a pen tip, resets everything, including the clock you have just set. Every
+reset button is a lesson in reading the manual first.
 
 ## The games on these tapes
 
-Eighteen Game & Watch models built on the Sharp SM510, each in a sentence or two:
+Eighteen Game & Watch models built on the Sharp SM510, each with its job and its moral:
 
-- **Turtle Bridge (TL-28, 1982)**: deliver parcels across a river on the backs of turtles. The turtles
-  have their own priorities and dive for fish at the worst possible moment.
-- **Fire Attack (ID-29, 1982)**: defend a wooden fort from attackers lobbing torches. A fire brigade of
-  one, with a very small bucket.
-- **Snoopy Tennis (SP-30, 1982)**: Snoopy, racket in paw, returning the balls Lucy keeps sending his
-  way. Lucy has never once in her life lost an argument, and she does not intend to lose this one.
-- **Oil Panic (OP-51, 1982)**: catch oil leaking from a gas-station ceiling and pour it to your boss
-  below, while customers stroll past at exactly the wrong time.
+- **Turtle Bridge (TL-28, 1982)**: carry parcels across a river on the backs of turtles, who dive for
+  fish whenever they feel like it. Never build a bridge out of anyone with a lunch break.
+- **Fire Attack (ID-29, 1982)**: defend a wooden fort from attackers hurling torches, one bucket against
+  the world. Wood is a fine building material until someone brings matches.
+- **Snoopy Tennis (SP-30, 1982)**: Snoopy, racket in paw, returns every ball Lucy sends his way. Arguing
+  with Lucy is like playing tennis against a wall that always wins.
+- **Oil Panic (OP-51, 1982)**: catch the oil dripping from a leaking ceiling and pass it down to your
+  boss without soaking the customers. Every job is easy until somebody walks underneath it.
 - **Donkey Kong (DK-52, 1982)**: Mario climbs the girders to rescue Pauline, on the model that gave the
-  world the D-pad.
+  world the "+" pad. Some inventions change history; this one also changed your thumb.
 - **Mickey & Donald (DM-53, 1982)**: Mickey and Donald fight a fire with a hose that springs leaks
-  faster than two people can plug them.
-- **Green House (GH-54, 1982)**: an exterminator keeps caterpillars and spiders off the flowers on two
-  floors at once.
+  faster than two can plug them. Teamwork means two people blaming one hose.
+- **Green House (GH-54, 1982)**: a gardener with a spray can guards the flowers from caterpillars on one
+  floor and spiders on the other. Every garden is a battlefield with better scenery.
 - **Donkey Kong II (JR-55, 1983)**: Donkey Kong Jr. sets out to free his father, which in Game & Watch
-  logic means a lot of keys and a lot of jumping.
-- **Mario Bros. (MW-56, 1983)**: Mario and Luigi on the conveyor belts of a bottling plant. Drop a
-  crate and the boss gives you a telling-off on screen. Fill the truck and you both get a break.
-- **Rain Shower (LP-57, 1983)**: rescue the washing from four clothes lines before the rain gets it.
-  British players will find this one realistic.
-- **Life Boat (TC-58, 1983)**: catch people jumping from a burning ship in a rowing boat and paddle them
-  to shore. Nobody jumps in an orderly queue.
-- **Squish (MG-61, 1986)**: a creature trapped between closing walls of a crushing machine; keep the
-  walls back and eat the bugs.
-- **Donkey Kong Jr. (DJ-101, 1982)**: vines, keys, snapping traps and birds, on the New Wide Screen.
-- **Mario's Cement Factory (ML-102, 1983)**: Mario runs the cement hoppers. Overfill one and a truck
-  driver gets a lapful of concrete.
+  terms means keys, chains and a great deal of jumping. Family loyalty is measured in keys collected.
+- **Mario Bros. (MW-56, 1983)**: Mario and Luigi keep the crates moving on the conveyor belts of a
+  bottling plant, and every dropped one earns a telling-off. Nothing bonds brothers like a boss
+  shouting at both of them.
+- **Rain Shower (LP-57, 1983)**: pull the washing in from four clothes lines before the rain soaks it.
+  British players will recognise it as a documentary.
+- **Life Boat (TC-58, 1983)**: row a little boat under a burning ship and catch the passengers as they
+  jump. In the whole history of shipwrecks, nobody has ever jumped in an orderly queue.
+- **Squish (MG-61, 1986)**: hold back the closing walls of a crushing machine while snacking on the bugs
+  that wander in. Personal space is worth fighting for, especially when the walls disagree.
+- **Donkey Kong Jr. (DJ-101, 1982)**: Junior swings through the vines, dodging traps and birds, to reach
+  the key to his father's cage. A rescue is mostly running in circles with a purpose.
+- **Mario's Cement Factory (ML-102, 1983)**: Mario works the cement hoppers, and an overfilled one empties
+  onto a truck driver's lap. In construction, timing is everything and concrete forgives nothing.
 - **Manhole (NH-103, 1983)**: hold the covers in place under pedestrians who never look where they are
-  walking.
-- **Tropical Fish (TF-104, 1985)**: catch fish leaping between fish bowls. The fish are not grateful.
-- **Spitball Sparky (BU-201, 1984)**: a breakout-style game on the Super Color series: keep a spitball
-  in the air and knock out the blocks.
-- **Crab Grab (UD-202, 1984)**: crabs on the march, a player outnumbered, and all of it in colour on
-  the Super Color series.
+  going. Every city runs on people quietly preventing disasters nobody notices.
+- **Tropical Fish (TF-104, 1985)**: catch the fish leaping between bowls before they reach the floor.
+  Saving lives is thankless work, especially when the lives are fish.
+- **Spitball Sparky (BU-201, 1984)**: keep a spitball in the air and clear the blocks, breakout-style, in
+  Super Color. Disgusting and fun are not opposites; they are teammates.
+- **Crab Grab (UD-202, 1984)**: the crabs are on the march and you are badly outnumbered, in full Super
+  Color. On any beach, the crabs outnumber the people with a plan.
 
-And one that never existed until now: **Munchy (MU-01)**, an original Game & Watch style maze game made
-for this collection, with its own program for the SM510, its own LCD drawings and sounds, a clock, an
-alarm, and a demo that plays itself while the clock runs, just like the real thing.
+And one that never existed until now: **Munchy (MU-01)**, an original maze game written for the SM510,
+with its own drawings and sounds. Like the classics, it keeps time, rings an alarm and plays itself
+while nobody is looking. Every collection needs one game nobody has a high score in yet.
 
 ## How it works
 
-The ZX Spectrum's Z80 runs a full emulation of the Sharp SM510: every instruction, the clock divider,
-the keyboard matrix, the LCD and the buzzer, paced to the original chip's real speed. The LCD is
-redrawn on the Spectrum screen segment by segment, from graphics drawn for each game at the Spectrum's
-resolution. The original game program, the 4 KB ROM, is loaded from a separate tape that you make from
-your own copy, so each game runs its genuine program, beep for beep.
+The Spectrum's Z80 emulates the Sharp SM510 in full, at the original chip's own speed: every
+instruction, the clock divider, the keys, the LCD and the buzzer. Each LCD figure appears on the
+Spectrum's screen from graphics made for its resolution. The game's own program, the 4 KB ROM, loads
+from a tape you make from your own copy, so every game runs its genuine code, beep for beep. Forty years
+on, the old programs still know their jobs; they just needed a new office.
 
 Game & Watch, Nintendo and the game titles above are trademarks of their owners; this project is not
 affiliated with or endorsed by Nintendo. See [LICENSE](LICENSE).
