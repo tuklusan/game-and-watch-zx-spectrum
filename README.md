@@ -1,8 +1,13 @@
 # Game & Watch on the ZX Spectrum 48K
 
-https://github.com/user-attachments/assets/6002bfec-042c-406d-9c05-a8ce425c4b6c
+## The tapes at a glance
 
-*Mario Bros. (MW-56) running on a ZX Spectrum 48K.*
+![Animated contact sheet: Munchy (MU-01) and all 18 Game & Watch models playing Game B on the ZX Spectrum 48K](images/game-and-watch-zx-spectrum-contact-sheet-animated.gif)
+
+Every screen above is from a real tape running in a ZX Spectrum 48K emulator with Game B selected.
+After five seconds of gameplay, the animated contact sheet shows the next ten seconds of live play,
+including genuine misses. The [original static contact sheet](images/game-and-watch-zx-spectrum-contact-sheet.png)
+is still available.
 
 **Nintendo Game & Watch LCD handhelds on the ZX Spectrum 48K**: a cycle-accurate Sharp SM510 emulator
 written in Z80 assembly, with ready-to-load TZX tapes for 18 Game & Watch models and Munchy, an original
@@ -59,6 +64,10 @@ Two tapes are complete and need no ROM tape, because their programs are our own:
 Munchy's keys are Q / A / O / P (or 9 / 8 / 6 / 7) to move, 1 for Game A, 2 for Game B (faster), and
 ENTER for ACL.
 
+https://github.com/user-attachments/assets/6002bfec-042c-406d-9c05-a8ce425c4b6c
+
+*Mario Bros. (MW-56) running on a ZX Spectrum 48K.*
+
 ## A short history of Game & Watch
 
 In 1980, the story goes, Nintendo engineer **Gunpei Yokoi** watched a bored businessman on the
@@ -83,15 +92,6 @@ Nearly every model has **Game A** and **Game B**, where B is A with the gloves o
 misses, and many forgive them all at 200 or 500 points, sometimes with a spell of double points. The
 ACL button, pressed with a pen tip, resets everything, including the clock you have just set. Every
 reset button is a lesson in reading the manual first.
-
-## The tapes at a glance
-
-![Animated contact sheet: Munchy (MU-01) and all 18 Game & Watch models playing Game B on the ZX Spectrum 48K](images/game-and-watch-zx-spectrum-contact-sheet-animated.gif)
-
-Every screen above is from a real tape running in a ZX Spectrum 48K emulator with Game B selected.
-After five seconds of gameplay, the animated contact sheet shows the next ten seconds of live play,
-including genuine misses. The [original static contact sheet](images/game-and-watch-zx-spectrum-contact-sheet.png)
-is still available.
 
 ## The games on these tapes
 
