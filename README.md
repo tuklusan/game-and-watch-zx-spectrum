@@ -86,10 +86,12 @@ reset button is a lesson in reading the manual first.
 
 ## The tapes at a glance
 
-![Contact sheet: Munchy (MU-01) at the top, then all 18 Game & Watch models running on the ZX Spectrum 48K: Turtle Bridge, Fire Attack, Snoopy Tennis, Oil Panic, Donkey Kong, Mickey & Donald, Green House, Donkey Kong II, Mario Bros., Rain Shower, Life Boat, Squish, Donkey Kong Jr., Mario's Cement Factory, Manhole, Tropical Fish, Spitball Sparky and Crab Grab](images/game-and-watch-zx-spectrum-contact-sheet.png)
+![Animated contact sheet: Munchy (MU-01) and all 18 Game & Watch models playing Game B on the ZX Spectrum 48K](images/game-and-watch-zx-spectrum-contact-sheet-animated.gif)
 
-Every screen above is a real capture of the tape running on a 48K ZX Spectrum, a few seconds into Game
-A. A picture is worth a thousand words, and a contact sheet is worth nineteen tapes.
+Every screen above is from a real tape running in a ZX Spectrum 48K emulator with Game B selected.
+After five seconds of gameplay, the animated contact sheet shows the next ten seconds of live play,
+including genuine misses. The [original static contact sheet](images/game-and-watch-zx-spectrum-contact-sheet.png)
+is still available.
 
 ## The games on these tapes
 
