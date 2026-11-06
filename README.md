@@ -2,7 +2,7 @@
 
 ## The tapes at a glance
 
-![Animated contact sheet: Munchy (MU-01) and all 18 Game & Watch models playing Game B on the ZX Spectrum 48K](images/game-and-watch-zx-spectrum-contact-sheet-animated.gif)
+![Animated contact sheet: Munchy (MU-01) and all 18 Game & Watch models playing Game B on the ZX Spectrum 48K](images//game-and-watch-game-b-animated-contact-sheet-optimized.gif)
 
 Every screen above is from a real tape running in a ZX Spectrum 48K emulator with Game B selected.
 After five seconds of gameplay, the animated contact sheet shows the next ten seconds of live play,
