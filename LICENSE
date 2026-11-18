@@ -156,45 +156,90 @@ SCOPE: WHAT THIS LICENSE COVERS IN THIS DISTRIBUTION
 In this distribution, the "Software" means everything here that the
 copyright holder created:
 
-   a. the tape files (.tzx), with everything they contain: the program
-      that runs Game & Watch games on the ZX Spectrum, the screen
-      graphics drawn for the Spectrum, and the loaders;
+   a. the tape files (.tzx), with everything they contain: the Sharp
+      SM510 / SM5a emulator written for the ZX Spectrum, which runs the
+      original LCD handheld games of every maker represented here
+      (Nintendo, Tiger, Konami, Tronica, Elektronika, Nauchpribor and any
+      others); the independently created greyscale screen graphics drawn
+      for the Spectrum to depict each handheld; and the loaders;
    b. Munchy (MU-01), an original game, with its program, graphics and
       sounds;
-   c. the script make_block2.py; and
-   d. the documentation.
+   c. the script make_block2.py;
+   d. the documentation; and
+   e. the images and animated media in this distribution (the montage and
+      per-maker contact-sheet GIFs).
 
-Every tape shows the credit line "Game&Watch+ZXSpeccy forever! SANYALnet
-Labs" on screen. That line is the attribution Section 1(b) requires, and it
-must stay visible in any copy or Derivative Work that has a screen.
+Every tape shows an on-screen credit of two lines: a maker line reading
+"<Maker>+ZXSpeccy forever!" — "Game&Watch+ZXSpeccy forever!" on the Nintendo
+tapes and on Munchy, and "Tiger Elec+ZXSpeccy forever!", "Konami+ZXSpeccy
+forever!", "Tronica+ZXSpeccy forever!", "Elektronika+ZXSpeccy forever!" or
+"Nauchpribor+ZXSpeccy forever!" on the others — together with "SANYALnet
+Labs". That "SANYALnet Labs" credit is the attribution Section 1(b)
+requires, and it must stay visible in any copy or Derivative Work that has a
+screen.
 
-The original Nintendo game programs (ROMs) are NOT included here and are
-NOT covered by this license. Each user must supply their own. The ROM tape
-that make_block2.py makes from a user's ROM holds only that ROM; it is not
-part of the Software and must not be shared with it or as part of it.
+The original handheld game programs (ROMs) — from Nintendo, Tiger, Konami,
+Tronica, Elektronika, Nauchpribor, or any other maker — are NOT included
+here and are NOT covered by this license. Each user must supply their own.
+The ROM tape that make_block2.py makes from a user's ROM holds only that
+ROM; it is not part of the Software and must not be shared with it or as
+part of it.
 
 
 ------------------------------------------------------------------------
 THIRD-PARTY NOTICES
 ------------------------------------------------------------------------
-Nintendo. "Nintendo" and "Game & Watch" are trademarks of Nintendo Co.,
-Ltd., named here only to say which handhelds this software works with.
-This project is not affiliated with, sponsored by, or endorsed by Nintendo.
-The tapes contain no Nintendo program code. Their screen graphics are new
-low-resolution drawings made for the Spectrum to resemble the handhelds'
-screens. This license grants no rights in the original handhelds' designs
-or artwork, which remain with their owners.
+The tapes contain no original program code (no ROMs) from any hardware
+maker. Their screen graphics are new low-resolution drawings made for the
+Spectrum to resemble the original handhelds' screens. This license grants no
+rights in the original handhelds' designs, artwork, names, or the game,
+film, television and character properties they depict, all of which remain
+with their respective owners. The makers and properties below are named only
+to identify which handhelds and games this software emulates; this project
+is independent and is not affiliated with, sponsored by, or endorsed by any
+of them.
+
+Hardware makers.
+   - Nintendo. "Nintendo" and "Game & Watch" are trademarks of Nintendo Co.,
+     Ltd.
+   - Tiger Electronics. "Tiger Electronics" is a trademark of Hasbro, Inc.
+   - Konami. "Konami" is a trademark of Konami Group Corporation.
+   - Tronica. "Tronica" is a trademark of its respective owner.
+   - Elektronika and Nauchpribor. "Elektronika" and "Nauchpribor" were
+     brands of Soviet state manufacturers; their marks belong to their
+     respective present owners.
+
+Adapted properties. The Tiger and Konami handhelds depict arcade, film,
+television, comic and sporting properties owned by or licensed to those
+makers — among them Batman; the X-Men, Spider-Man and other Marvel and DC
+characters; Altered Beast, Golden Axe, Space Harrier, Strider, Street
+Fighter, Mortal Kombat, Double Dragon, Battletoads, Ninja Gaiden, Gauntlet,
+Karnov, Castlevania and Mega Man; and film and television titles such as
+Jurassic Park, Home Alone, Back to the Future, The Addams Family, The
+Rocketeer, Wayne's World, Judge Dredd, GoldenEye and Independence Day. All
+such names, titles, characters and logos are the trademarks and copyrights
+of their respective owners.
 
 Pac-Man. Munchy is an original maze game inspired by the classic maze-chase
 genre. "PAC-MAN" is a trademark of Bandai Namco Entertainment Inc. Munchy is
 not affiliated with or endorsed by Bandai Namco.
 
-MAME. make_block2.py reads ROM files in the form the MAME project uses. The
-emulator was written for this project; for how the Sharp SM510 chip behaves,
-it follows Sharp's data books as interpreted by MAME's SM510 emulation
-(BSD-3-Clause, copyright hap), which we gratefully acknowledge. No MAME code
-is included.
+Sharp. "Sharp", "SM510" and "SM5a" name the 4-bit microcontrollers made by
+Sharp Corporation, whose documented instruction behaviour this emulator
+reproduces. The emulator is an independent implementation written for this
+project; no Sharp program code or microcode is included. "Sharp" is a
+trademark of Sharp Corporation.
 
-ZX Spectrum. "ZX Spectrum" is a trademark of its respective owner. No ZX
-Spectrum ROM is included; the tapes use the ROM of the user's own computer
-or emulator.
+MAME. make_block2.py reads ROM files in the form the MAME project uses. The
+emulator was written for this project; for how the Sharp SM510 and SM5a
+chips behave, it follows Sharp's data books as interpreted by MAME's SM510
+emulation (BSD-3-Clause, copyright hap), which we gratefully acknowledge. No
+MAME code is included.
+
+ZX Spectrum. "ZX Spectrum" and "Sinclair" are trademarks of their respective
+owners. No ZX Spectrum ROM is included; the tapes use the ROM of the user's
+own computer or emulator.
+
+All other product names, trademarks and registered trademarks named in this
+distribution or its documentation are the property of their respective
+owners and are used only for identification.
